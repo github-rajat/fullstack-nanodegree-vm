@@ -1,6 +1,6 @@
 import turtle
 import math
-
+import os
 def triangle(t,a,k):
   if k==3:    
     t.fill(True)
